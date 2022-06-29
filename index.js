@@ -4,16 +4,7 @@
  
 	 「 TqTo 」
 	@ My God
-	@ My Parents
-	@ Fatih A.
-	@ Ferdi
-	@ DikaArdnt [author]
-	@ Mhankbarbar
-	@ Nurutomo
-	@ Rashid
-	@ AzzBotOfc
-	@ Penyedia Module
-	@ And All Support
+	@ My Parent
 **/
 
 
